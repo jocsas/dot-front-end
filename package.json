@@ -1,0 +1,16 @@
+{
+  "name": "dot-front-end",
+  "version": "1.0.0",
+  "description": "DOT front-end test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jocsã Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-imagemin": "^7.0.1"
+  }
+}
